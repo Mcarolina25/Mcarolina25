@@ -3,7 +3,7 @@
 
 <br>
 
-¡Hola! 👋 Soy Carolina, una apasionada Data Scientist de Tucumán, Argentina, con 22 años.
+¡Hola! 👋 Soy Carolina, una apasionada Data Scientist de Tucumán, Argentina, con 23 años.
 
 Mi enfoque principal está en el desarrollo de soluciones innovadoras a través de Machine Learning y el análisis profundo de datos. Soy una persona proactiva, organizada y responsable, con excelentes habilidades de comunicación y una actitud positiva hacia el trabajo en equipo. Mi creatividad y capacidad para resolver problemas me permiten abordar desafíos complejos de manera efectiva.
 
